@@ -1,4 +1,4 @@
-# O(n) or Linear Time Complexity
+# O(n) or Linear Time Complexity : No.of operations depend on the size of input
 import time
 small_array = ['sai']
 medium_array = ['sai' for i in range(1000)]
