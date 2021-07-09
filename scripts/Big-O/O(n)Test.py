@@ -13,6 +13,7 @@ def findName(names):
     t1 = time.time()
     print('the search taken', {t1-t0} , 'seconds') 
 
+
 findName(small_array)
 findName(medium_array)
 findName(large_array)
